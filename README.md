@@ -1,4 +1,4 @@
-# VueJs_Repeticao
+# VueJs_Repeticao_Metodos
 
 1)  Crie uma aplicação VueJS que permita ao usuário digitar seu nome em um campo de texto. Ao pressionar Enter, um evento é acionado, exibindo um alerta personalizado com a mensagem "Olá, {nome do usuário}!".
 
